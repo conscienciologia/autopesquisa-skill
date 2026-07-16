@@ -1,0 +1,17 @@
+{
+  "name": "autopesquisa",
+  "description": "Autopesquisa conscienciológica: registro e análise de pensenes, fatos e parafatos, e composição da Fatuística de verbetes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Eduardo de Santana Medeiros"
+  },
+  "homepage": "https://github.com/conscienciologia/autopesquisa-skill",
+  "repository": "https://github.com/conscienciologia/autopesquisa-skill",
+  "license": "MIT",
+  "keywords": [
+    "conscienciologia",
+    "autopesquisa",
+    "fatuistica",
+    "verbete"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "conscienciologia",
+  "description": "Skills de autopesquisa conscienciológica para agentes de IA.",
+  "owner": {
+    "name": "Conscienciologia",
+    "email": "eduardo.ufpb@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "autopesquisa",
+      "source": "./plugins/autopesquisa",
+      "description": "Autopesquisa conscienciológica: registro e análise de pensenes, fatos e parafatos, e composição da Fatuística de verbetes.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Eduardo de Santana Medeiros"
+      },
+      "homepage": "https://github.com/conscienciologia/autopesquisa-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "conscienciologia",
+        "autopesquisa",
+        "fatuistica",
+        "verbete",
+        "obsidian"
+      ]
+    }
+  ]
+}
