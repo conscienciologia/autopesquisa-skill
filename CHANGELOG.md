@@ -2,7 +2,7 @@
 
 Todas as mudanças relevantes deste projeto são registradas aqui.
 
-O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o versionamento segue [SemVer](https://semver.org/lang/pt-BR/). As versões também estão disponíveis como [releases no GitHub](https://github.com/conscienciologia/autopesquisa-skill/releases).
+O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). As releases seguem o padrão de data **`yyyy.mm.dd.HHMM`** (ex.: `2026.07.16.1432`) — as versões `0.1.0` e `0.2.0` são anteriores a essa convenção. As versões também estão disponíveis como [releases no GitHub](https://github.com/conscienciologia/autopesquisa-skill/releases). O processo de lançamento está em [RELEASING.md](RELEASING.md).
 
 > **Como atualizar:** marketplaces de terceiros não atualizam sozinhos. Rode `/plugin marketplace update conscienciologia` e reinicie a sessão do Claude Code. Veja [detalhes no README](README.md#atualizar-é-manual).
 

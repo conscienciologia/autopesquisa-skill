@@ -40,7 +40,7 @@ Se, em algum ambiente, o plugin não refletir a nova versão só com o passo 1, 
 /plugin update autopesquisa@conscienciologia
 ```
 
-**Fique por dentro das novidades.** O que muda em cada versão fica registrado no [**CHANGELOG.md**](CHANGELOG.md) e nas [**releases do GitHub**](https://github.com/conscienciologia/autopesquisa-skill/releases). Consulte antes de atualizar para saber o que vai chegar — skills novas, conteúdos e correções.
+**Pode atualizar sem medo.** Atualizar é sempre seguro — não é preciso consultar nada antes. O [**CHANGELOG.md**](CHANGELOG.md) e as [**releases do GitHub**](https://github.com/conscienciologia/autopesquisa-skill/releases) existem apenas para comunicar o progresso: o que cada versão trouxe de skills novas, conteúdos e correções. Dê uma olhada se tiver curiosidade sobre as novidades.
 
 ## O que vem junto
 

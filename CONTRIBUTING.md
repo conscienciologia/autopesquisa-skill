@@ -61,6 +61,6 @@ Dentro do Claude Code, `/help` mostra se sua skill apareceu. Depois **use-a nos 
 
 Descreva o que muda e **em qual caso real você testou**. Se for adaptador, diga com quantos registros e de que fonte.
 
-Registre a mudança no [`CHANGELOG.md`](CHANGELOG.md), sob a seção **[Não lançado]** (formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/): _Adicionado_, _Alterado_, _Corrigido_, _Removido_). O mantenedor move essas entradas para uma versão e cria a tag/release na hora de lançar.
+Registre a mudança no [`CHANGELOG.md`](CHANGELOG.md), sob a seção **[Não lançado]** (formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/): _Adicionado_, _Alterado_, _Corrigido_, _Removido_). O mantenedor move essas entradas para uma versão e cria a tag/release na hora de lançar — ver [RELEASING.md](RELEASING.md).
 
 Dúvida sobre o que fazer? Abra uma issue e pergunte. Perguntar já é participar.
