@@ -40,7 +40,7 @@ Tem um método de autopesquisa que você pratica e sabe explicar? Sonhos, proje�
 Estas valem para tudo neste repositório, e não são negociáveis:
 
 1. **Não somos fonte doutrinária.** Em questão conceitual, remeta às obras e à comunidade. Skill não inventa definição de Conscienciologia.
-2. **Referenciar, nunca copiar.** O *Manual de Verbetografia*, a *Enciclopédia*, o *Dicionário de Argumentos* e os verbetes da OIC são obras protegidas. Descreva estrutura e método, cite a fonte, e não reproduza o texto.
+2. **Referenciar, nunca copiar — salvo obras disponibilizadas publicamente.** O *Manual de Verbetografia*, a *Enciclopédia*, o *Dicionário de Argumentos* e os verbetes da OIC são obras protegidas: descreva estrutura e método, cite a fonte, e não reproduza o texto. **Exceção:** para livros que o autor ou a editora disponibilizou publicamente (leitura livre e autorizada), é permitido extrair e sistematizar o conteúdo — frameworks, taxologias, técnicas — como base de conhecimento numa skill, sempre citando a fonte de forma clara. É o caso da skill `tornieri-sinaletica` e de outras skills de livros abertos. Na dúvida sobre o status de uma obra, trate-a como protegida.
 3. **A avaliação cosmoética é do pesquisador.** Nenhuma skill atribui `/ok` ou `/no` por conta própria. Julgar a cosmoética alheia não é o nosso papel.
 4. **Autopesquisa não é terapia.** Autoconsciencioterapia tem propósito e método próprios e está fora do escopo. Skill que se aproximar disso deve dizer que é outro campo.
 5. **Os dois formatos de verbete não se misturam.** Encyclossapiens é denotativo; OIC é prosa. Aplicar o confor de um no outro estraga o verbete.
