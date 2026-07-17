@@ -1,3 +1,7 @@
+---
+title: Como contribuir
+---
+
 # Como contribuir
 
 **Não é preciso saber programar.** Uma skill é um arquivo de texto que ensina a IA a fazer uma coisa bem. Quem entende de autopesquisa, verbetografia ou de um método conscienciológico já tem o que é mais difícil — o conhecimento. O resto é escrever.
