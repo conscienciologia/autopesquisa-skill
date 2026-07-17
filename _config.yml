@@ -1,0 +1,14 @@
+title: Skills de Autopesquisa Conscienciológica
+description: >-
+  Skills de IA para autopesquisa conscienciológica — conhecer-se a partir dos
+  próprios registros. Fatuística, verbete e sinaleticologia para Claude Code.
+theme: jekyll-theme-cayman
+lang: pt-BR
+
+# O site publica só os documentos do projeto. O conteúdo das skills
+# (plugins/) fica no repositório e é instalado via Claude Code, não navegado aqui.
+exclude:
+  - plugins/
+  - LICENSE
+  - .gitignore
+  - .github/

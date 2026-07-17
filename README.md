@@ -2,6 +2,8 @@
 
 Skills de IA para autopesquisa — **conhecer-se** a partir dos próprios registros.
 
+📖 **Site do projeto:** <https://conscienciologia.github.io/autopesquisa-skill/>
+
 Quem faz autopesquisa acumula anos de registros: pensenes, fatos, parafatos, sonhos, tenepes. Esse material quase sempre fica parado, porque relê-lo dá trabalho e a memória é seletiva e complacente. Estas skills ensinam um agente de IA a trabalhar com esses registros do jeito certo — respeitando o método, o vocabulário e o confor da Conscienciologia.
 
 ## Instalação

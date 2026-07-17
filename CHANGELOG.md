@@ -8,7 +8,8 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). As 
 
 ## [Não lançado]
 
-_Nada ainda._
+### Adicionado
+- **Site do projeto no GitHub Pages** (<https://conscienciologia.github.io/autopesquisa-skill/>) — publicado automaticamente a cada push no `main` via GitHub Actions (Jekyll, tema Cayman). Configuração em `_config.yml` e workflow em `.github/workflows/pages.yml`.
 
 ## [0.2.0] — 2026-07-16
 
