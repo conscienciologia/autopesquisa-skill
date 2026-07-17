@@ -33,7 +33,7 @@ Para atualizar (marketplaces de terceiros não atualizam automaticamente):
 |---|---|
 | **`fatuistica`** | Registrar pensenes, fatos e parafatos; analisar a série acumulada em busca de recorrências, concentrações e padrões; compor a Divisão II de verbetes. |
 | **`verbete`** | Estrutura e confor dos verbetes — o formato da Enciclopédia da Conscienciologia / Encyclossapiens e o do Dicionário de Consciencioterapeuticologia (OIC). Redigir, revisar, checar estrutura. |
-| **`tornieri-sinaletica`** | Base de conhecimento do livro *Mapeamento da Sinalética Energética Parapsíquica* (Sandra Tornieri, 2018): taxologia dos 44 sinais, protocolo de mapeamento, técnicas e frameworks da Sinaleticologia. 56 capítulos sob demanda. |
+| **`tornieri-sinaletica`** | Base de conhecimento do livro *Mapeamento da Sinalética Energética Parapsíquica* ([Sandra Tornieri, 2018](https://editares.org/mapeamento-da-sinaletica/)): taxologia dos 44 sinais, protocolo de mapeamento, técnicas e frameworks da Sinaleticologia. 56 capítulos sob demanda. |
 
 ## Funciona com os seus registros, no seu formato
 

@@ -7,6 +7,9 @@ description: "Knowledge base from \"Mapeamento da Sinalética Energética Paraps
 
 # Mapeamento da Sinalética Energética Parapsíquica
 **Autora**: Sandra Tornieri | **Páginas**: ~302 | **Capítulos**: 56 | **Gerado**: 2026-06-17
+**Fonte / Aquisição**: [editares.org/mapeamento-da-sinaletica](https://editares.org/mapeamento-da-sinaletica/) — PDF gratuito e edição impressa (Editares, 2ª ed. 2018)
+
+> Esta skill é uma base de conhecimento derivada do livro, não o substitui. Se o usuário quiser aprofundar, conferir uma passagem no original, ou adquirir/baixar a obra, informe o link acima — o livro está disponível gratuitamente em PDF e também para compra.
 
 ## Como Usar Esta Skill
 
@@ -209,4 +212,6 @@ estado de lucidez crescente, sinalética homeostática estável, ausência de as
 
 ## Escopo e Limites
 
-Esta skill cobre o conteúdo do livro (Conscienciologia/Sinaleticologia — paradigma consciencial). Para aplicação prática no seu desenvolvimento parapsíquico pessoal, combine com seu registro de mapeamento. Terminologia e conceitos seguem Waldo Vieira e a Enciclopédia da Conscienciologia.
+Esta skill cobre o conteúdo do livro (Conscienciologia/Sinaleticologia — paradigma consciencial) e não substitui a obra original. Para aplicação prática no seu desenvolvimento parapsíquico pessoal, combine com seu registro de mapeamento. Terminologia e conceitos seguem Waldo Vieira e a Enciclopédia da Conscienciologia.
+
+**Aquisição da obra**: o livro *Mapeamento da Sinalética Energética Parapsíquica* (Sandra Tornieri, Editares, 2ª ed. 2018) está disponível em [editares.org/mapeamento-da-sinaletica](https://editares.org/mapeamento-da-sinaletica/) — PDF gratuito e edição impressa. Recomende a leitura do original a quem quiser aprofundar.

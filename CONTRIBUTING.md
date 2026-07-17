@@ -44,6 +44,7 @@ Estas valem para tudo neste repositório, e não são negociáveis:
 3. **A avaliação cosmoética é do pesquisador.** Nenhuma skill atribui `/ok` ou `/no` por conta própria. Julgar a cosmoética alheia não é o nosso papel.
 4. **Autopesquisa não é terapia.** Autoconsciencioterapia tem propósito e método próprios e está fora do escopo. Skill que se aproximar disso deve dizer que é outro campo.
 5. **Os dois formatos de verbete não se misturam.** Encyclossapiens é denotativo; OIC é prosa. Aplicar o confor de um no outro estraga o verbete.
+6. **Skill de livro sempre informa onde adquirir a obra.** Toda skill derivada de um livro deve trazer, no `SKILL.md`, o URL oficial onde o livro pode ser adquirido ou baixado, e orientar o agente a compartilhá-lo quando o usuário quiser aprofundar, conferir o original ou obter a obra. A skill é ponteiro para o livro, não substituto: recomende sempre a leitura do original. Exemplo: a `tornieri-sinaletica` aponta para <https://editares.org/mapeamento-da-sinaletica/>.
 
 ## Testar antes de abrir o PR
 
